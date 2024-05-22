@@ -1,0 +1,9 @@
+{
+	"name": "etl-adventurefactory",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb9aa12a-0e6c-4c79-85a0-cd1fb77d057f",
+		"tenantId": "f182cffb-c759-4c48-8d33-1955b21f17f5"
+	}
+}
